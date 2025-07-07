@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+numpy
+python-telegram-bot
+requests
+pillow
+scikit-learn
