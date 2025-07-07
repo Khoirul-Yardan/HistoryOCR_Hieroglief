@@ -3,7 +3,7 @@
 
 **HistoryOCR_Hieroglief** adalah proyek berbasis OCR (Optical Character Recognition) yang dirancang untuk mengenali dan menerjemahkan simbol-simbol *Hieroglif Mesir Kuno*. Proyek ini bertujuan sebagai media edukatif dan eksploratif dalam memahami peradaban kuno melalui teknologi AI modern.
 
-![Hieroglyph Example](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hieroglyphs_from_the_tomb_of_Seti_I.png/800px-Hieroglyphs_from_the_tomb_of_Seti_I.png)
+![Hieroglyph Example](https://upload.wikimedia.org/wikipedia/commons/9/9d/Papyrus_Ani_curs_hiero.jpg)
 
 catatan : masih dalam tahap pengembangan lebih lanjut
 
